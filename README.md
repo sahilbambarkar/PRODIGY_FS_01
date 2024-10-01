@@ -52,7 +52,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 Vercel: Deploy your React application to Vercel for easy hosting and automatic deployments.
 
 
-<h2>Live Demo:</h2> 
+<h2>Live Demo:https://prodigy-fs-01-chi.vercel.app/</h2> 
 
 
 
